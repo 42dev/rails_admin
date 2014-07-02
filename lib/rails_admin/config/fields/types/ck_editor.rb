@@ -21,7 +21,7 @@ module RailsAdmin
 
           # Use this if you want to point to a cloud instances of the base CKeditor
           register_instance_option :base_location do
-            "ckeditor/"
+            "/assets/ckeditor/"
           end
 
           register_instance_option :partial do
